@@ -1,0 +1,1 @@
+Notes cannot contain spaces in the title
